@@ -1,4 +1,5 @@
 **Piedra, Papel o Tijeras**
+
 Este es un simple juego de Piedra, Papel o Tijeras implementado en Java con comunicación cliente-servidor. 
 El juego permite a dos clientes conectarse al servidor y jugar varias rondas hasta que uno de los jugadores alcance tres victorias.
 
