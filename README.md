@@ -5,10 +5,14 @@ El juego permite a dos clientes conectarse al servidor y jugar varias rondas has
 
 **Instrucciones de Uso**
 
-1 - Clona el repositorio en tu máquina local:
+1 - Clona el repositorio en tu máquina local.
+
 2 - Abre el proyecto en tu entorno de desarrollo preferido (por ejemplo, Eclipse, IntelliJ).
+
 3 - Ejecuta el servidor (clase Servidor) desde tu entorno de desarrollo.
+
 4 - Ejecuta dos instancias de la aplicación cliente (clase Cliente) para que dos jugadores se conecten al servidor.
+
 5 - Sigue las instrucciones en consola para introducir tus jugadas ("Piedra", "Papel" o "Tijeras").
 
 El juego finaliza cuando uno de los jugadores alcanza tres victorias.
